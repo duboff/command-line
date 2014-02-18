@@ -1,0 +1,5 @@
+used to filter a list by contents
+
+syntax:
+
+grep filter_string
